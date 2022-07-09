@@ -1,11 +1,6 @@
 # dev-job-board
 
-Items that need to be included; 
-Navbar with about,jobs, sign in, maybe blog
-main content page with search bar
-search bar must be functional with keywords 
-featured job postings section
-about section
-profile section for people
-can include a way to upload resume, maybe a skills section
+This is a job board for self-taught developers.
+It is built with HTML, CSS, and JavaScript.
 
+To join the community, visit: https://discord.gg/DsantfED
